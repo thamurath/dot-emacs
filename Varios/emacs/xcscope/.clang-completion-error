@@ -1,0 +1,2497 @@
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:1:3: error: expected external declaration
+; -*-Emacs-Lisp-*-
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:1:5: error: expected identifier or '('
+; -*-Emacs-Lisp-*-
+    ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:4:3: warning: type specifier missing, defaults to 'int'
+; File:         xcscope.el
+  ^~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:4:7: error: expected ';' after top level declarator
+; File:         xcscope.el
+      ^
+      ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:4:17: error: unknown type name 'xcscope'
+; File:         xcscope.el
+                ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:4:24: error: expected identifier or '('
+; File:         xcscope.el
+                       ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:5:3: warning: type specifier missing, defaults to 'int'
+; RCS:          $RCSfile: xcscope.el,v $ $Revision: 1.14 $ $Date: 2002/04/10 16:59:00 $ $Author: darrylo $
+  ^~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:5:6: error: expected ';' after top level declarator
+; RCS:          $RCSfile: xcscope.el,v $ $Revision: 1.14 $ $Date: 2002/04/10 16:59:00 $ $Author: darrylo $
+     ^
+     ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:5:17: warning: type specifier missing, defaults to 'int'
+; RCS:          $RCSfile: xcscope.el,v $ $Revision: 1.14 $ $Date: 2002/04/10 16:59:00 $ $Author: darrylo $
+                ^~~~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:5:25: error: expected ';' after top level declarator
+; RCS:          $RCSfile: xcscope.el,v $ $Revision: 1.14 $ $Date: 2002/04/10 16:59:00 $ $Author: darrylo $
+                        ^
+                        ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:5:27: error: unknown type name 'xcscope'
+; RCS:          $RCSfile: xcscope.el,v $ $Revision: 1.14 $ $Date: 2002/04/10 16:59:00 $ $Author: darrylo $
+                          ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:5:34: error: expected identifier or '('
+; RCS:          $RCSfile: xcscope.el,v $ $Revision: 1.14 $ $Date: 2002/04/10 16:59:00 $ $Author: darrylo $
+                                 ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:6:3: warning: type specifier missing, defaults to 'int'
+; Description:  cscope interface for (X)Emacs
+  ^~~~~~~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:6:14: error: expected ';' after top level declarator
+; Description:  cscope interface for (X)Emacs
+             ^
+             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:6:17: error: unknown type name 'cscope'
+; Description:  cscope interface for (X)Emacs
+                ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:6:33: error: expected ';' after top level declarator
+; Description:  cscope interface for (X)Emacs
+                                ^
+                                ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:7:3: warning: type specifier missing, defaults to 'int'
+; Author:       Darryl Okahata
+  ^~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:7:9: error: expected ';' after top level declarator
+; Author:       Darryl Okahata
+        ^
+        ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:7:17: error: unknown type name 'Darryl'
+; Author:       Darryl Okahata
+                ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:8:3: warning: type specifier missing, defaults to 'int'
+; Created:      Wed Apr 19 17:03:38 2000
+  ^~~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:8:10: error: expected ';' after top level declarator
+; Created:      Wed Apr 19 17:03:38 2000
+         ^
+         ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:8:17: error: unknown type name 'Wed'
+; Created:      Wed Apr 19 17:03:38 2000
+                ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:8:24: error: expected ';' after top level declarator
+; Created:      Wed Apr 19 17:03:38 2000
+                       ^
+                       ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:9:3: warning: type specifier missing, defaults to 'int'
+; Modified:     Thu Apr  4 17:22:22 2002 (Darryl Okahata) darrylo@soco.agilent.com
+  ^~~~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:9:11: error: expected ';' after top level declarator
+; Modified:     Thu Apr  4 17:22:22 2002 (Darryl Okahata) darrylo@soco.agilent.com
+          ^
+          ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:9:17: error: unknown type name 'Thu'
+; Modified:     Thu Apr  4 17:22:22 2002 (Darryl Okahata) darrylo@soco.agilent.com
+                ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:9:24: error: expected ';' after top level declarator
+; Modified:     Thu Apr  4 17:22:22 2002 (Darryl Okahata) darrylo@soco.agilent.com
+                       ^
+                       ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:10:3: warning: type specifier missing, defaults to 'int'
+; Language:     Emacs-Lisp
+  ^~~~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:10:11: error: expected ';' after top level declarator
+; Language:     Emacs-Lisp
+          ^
+          ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:10:17: error: unknown type name 'Emacs'
+; Language:     Emacs-Lisp
+                ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:10:22: error: expected identifier or '('
+; Language:     Emacs-Lisp
+                     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:11:3: warning: type specifier missing, defaults to 'int'
+; Package:      N/A
+  ^~~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:11:10: error: expected ';' after top level declarator
+; Package:      N/A
+         ^
+         ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:11:17: error: unknown type name 'N'
+; Package:      N/A
+                ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:11:18: error: expected identifier or '('
+; Package:      N/A
+                 ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:12:3: warning: type specifier missing, defaults to 'int'
+; Status:       Experimental
+  ^~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:12:9: error: expected ';' after top level declarator
+; Status:       Experimental
+        ^
+        ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:12:17: warning: type specifier missing, defaults to 'int'
+; Status:       Experimental
+                ^~~~~~~~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:14:4: warning: type specifier missing, defaults to 'int'
+; (C) Copyright 2000, 2001, 2002, Darryl Okahata <darrylo@sonic.net>,
+  ~^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:14:6: error: expected ';' after top level declarator
+; (C) Copyright 2000, 2001, 2002, Darryl Okahata <darrylo@sonic.net>,
+     ^
+     ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:15:7: error: unknown type name 'all'
+;     all rights reserved.
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:15:17: error: expected ';' after top level declarator
+;     all rights reserved.
+                ^
+                ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:16:3: error: unknown type name 'GNU'
+; GNU Emacs enhancements (C) Copyright 2001,
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:16:12: error: expected ';' after top level declarator
+; GNU Emacs enhancements (C) Copyright 2001,
+           ^
+           ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:17:11: error: unknown type name 'Triet'
+;         Triet H. Lai <thlai@mail.usyd.edu.au>
+          ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:17:18: error: expected ';' after top level declarator
+;         Triet H. Lai <thlai@mail.usyd.edu.au>
+                 ^
+                 ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:18:3: error: unknown type name 'Fuzzy'
+; Fuzzy matching and navigation code (C) Copyright 2001,
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:18:17: error: expected ';' after top level declarator
+; Fuzzy matching and navigation code (C) Copyright 2001,
+                ^
+                ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:19:11: error: unknown type name 'Steven'
+;         Steven Elliott <selliott4@austin.rr.com>
+          ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:19:25: error: expected ';' after top level declarator
+;         Steven Elliott <selliott4@austin.rr.com>
+                        ^
+                        ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:22:4: error: unknown type name 'ALPHA'
+;; ALPHA VERSION 0.96
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:22:17: error: expected ';' after top level declarator
+;; ALPHA VERSION 0.96
+                ^
+                ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:25:4: error: unknown type name 'This'
+;; This program is free software; you can redistribute it and/or modify
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:25:16: error: expected ';' after top level declarator
+;; This program is free software; you can redistribute it and/or modify
+               ^
+               ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:25:35: error: unknown type name 'you'
+;; This program is free software; you can redistribute it and/or modify
+                                  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:25:42: error: expected ';' after top level declarator
+;; This program is free software; you can redistribute it and/or modify
+                                         ^
+                                         ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:26:4: error: unknown type name 'it'
+;; it under the terms of the GNU General Public License as published by
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:26:12: error: expected ';' after top level declarator
+;; it under the terms of the GNU General Public License as published by
+           ^
+           ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:27:4: error: unknown type name 'the'
+;; the Free Software Foundation; either version 2, or (at your option)
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:27:12: error: expected ';' after top level declarator
+;; the Free Software Foundation; either version 2, or (at your option)
+           ^
+           ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:27:34: error: unknown type name 'either'
+;; the Free Software Foundation; either version 2, or (at your option)
+                                 ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:27:48: error: expected ';' after top level declarator
+;; the Free Software Foundation; either version 2, or (at your option)
+                                               ^
+                                               ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:28:4: error: unknown type name 'any'
+;; any later version.
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:28:13: error: expected ';' after top level declarator
+;; any later version.
+            ^
+            ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:30:4: error: unknown type name 'This'
+;; This program is distributed in the hope that it will be useful,
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:30:16: error: expected ';' after top level declarator
+;; This program is distributed in the hope that it will be useful,
+               ^
+               ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:31:4: error: unknown type name 'but'
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:31:15: error: expected ';' after top level declarator
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+              ^
+              ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:31:30: error: unknown type name 'without'
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+                             ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:31:42: error: expected ';' after top level declarator
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+                                         ^
+                                         ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:32:4: error: unknown type name 'MERCHANTABILITY'
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:32:22: error: expected ';' after top level declarator
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+                     ^
+                     ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:33:4: error: unknown type name 'GNU'
+;; GNU General Public License for more details.
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:33:15: error: expected ';' after top level declarator
+;; GNU General Public License for more details.
+              ^
+              ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:35:4: error: unknown type name 'You'
+;; You should have received a copy of the GNU General Public License
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:35:14: error: expected ';' after top level declarator
+;; You should have received a copy of the GNU General Public License
+             ^
+             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:36:4: error: unknown type name 'along'
+;; along with GNU Emacs; see the file COPYING.  If not, write to
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:36:14: error: expected ';' after top level declarator
+;; along with GNU Emacs; see the file COPYING.  If not, write to
+             ^
+             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:36:26: error: unknown type name 'see'
+;; along with GNU Emacs; see the file COPYING.  If not, write to
+                         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:36:33: error: expected ';' after top level declarator
+;; along with GNU Emacs; see the file COPYING.  If not, write to
+                                ^
+                                ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:37:4: error: unknown type name 'the'
+;; the Free Software Foundation, 675 Mass Ave, Cambridge, MA 02139, USA.
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:37:12: error: expected ';' after top level declarator
+;; the Free Software Foundation, 675 Mass Ave, Cambridge, MA 02139, USA.
+           ^
+           ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:41:4: error: unknown type name 'This'
+;; This is a cscope interface for (X)Emacs.
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:41:11: error: expected ';' after top level declarator
+;; This is a cscope interface for (X)Emacs.
+          ^
+          ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:42:4: error: unknown type name 'It'
+;; It currently runs under Unix only.
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:42:16: error: expected ';' after top level declarator
+;; It currently runs under Unix only.
+               ^
+               ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:44:4: error: unknown type name 'Using'
+;; Using cscope, you can easily search for where symbols are used and defined.
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:44:21: error: expected ';' after top level declarator
+;; Using cscope, you can easily search for where symbols are used and defined.
+                    ^
+                    ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:45:4: error: unknown type name 'Cscope'
+;; Cscope is designed to answer questions like:
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:45:13: error: expected ';' after top level declarator
+;; Cscope is designed to answer questions like:
+            ^
+            ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:47:12: error: unknown type name 'Where'
+;;         Where is this variable used?
+           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:47:20: error: expected ';' after top level declarator
+;;         Where is this variable used?
+                   ^
+                   ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:48:12: error: unknown type name 'What'
+;;         What is the value of this preprocessor symbol?
+           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:48:19: error: expected ';' after top level declarator
+;;         What is the value of this preprocessor symbol?
+                  ^
+                  ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:49:12: error: unknown type name 'Where'
+;;         Where is this function in the source files?
+           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:49:20: error: expected ';' after top level declarator
+;;         Where is this function in the source files?
+                   ^
+                   ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:50:12: error: unknown type name 'What'
+;;         What functions call this function?
+           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:50:26: error: expected ';' after top level declarator
+;;         What functions call this function?
+                         ^
+                         ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:51:12: error: unknown type name 'What'
+;;         What functions are called by this function?
+           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:51:26: error: expected ';' after top level declarator
+;;         What functions are called by this function?
+                         ^
+                         ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:52:12: error: unknown type name 'Where'
+;;         Where does the message "out of space" come from?
+           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:52:22: error: expected ';' after top level declarator
+;;         Where does the message "out of space" come from?
+                     ^
+                     ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:53:12: error: unknown type name 'Where'
+;;         Where is this source file in the directory structure?
+           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:53:20: error: expected ';' after top level declarator
+;;         Where is this source file in the directory structure?
+                   ^
+                   ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:54:12: error: unknown type name 'What'
+;;         What files include this header file?
+           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:54:22: error: expected ';' after top level declarator
+;;         What files include this header file?
+                     ^
+                     ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:56:4: error: unknown type name 'Send'
+;; Send comments to one of:     darrylo@soco.agilent.com
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:56:17: error: expected ';' after top level declarator
+;; Send comments to one of:     darrylo@soco.agilent.com
+                ^
+                ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:57:33: error: unknown type name 'darryl_okahata'
+;;                              darryl_okahata@agilent.com
+                                ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:57:47: error: expected identifier or '('
+;;                              darryl_okahata@agilent.com
+                                              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:58:33: error: unknown type name 'darrylo'
+;;                              darrylo@sonic.net
+                                ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:58:40: error: expected identifier or '('
+;;                              darrylo@sonic.net
+                                       ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:62:10: warning: type specifier missing, defaults to 'int'
+;; ***** INSTALLATION *****
+   ~     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:62:22: error: expected ';' after top level declarator
+;; ***** INSTALLATION *****
+                     ^
+                     ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:64:6: warning: type specifier missing, defaults to 'int'
+;; * NOTE: this interface currently runs under Unix only.
+   ~ ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:64:10: error: expected ';' after top level declarator
+;; * NOTE: this interface currently runs under Unix only.
+         ^
+         ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:64:12: error: unknown type name 'this'
+;; * NOTE: this interface currently runs under Unix only.
+           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:64:26: error: expected ';' after top level declarator
+;; * NOTE: this interface currently runs under Unix only.
+                         ^
+                         ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:66:4: error: unknown type name 'This'
+;; This module needs a shell script called "cscope-indexer", which
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:66:15: error: expected ';' after top level declarator
+;; This module needs a shell script called "cscope-indexer", which
+              ^
+              ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:67:4: error: unknown type name 'should'
+;; should have been supplied along with this emacs-lisp file.  The
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:67:15: error: expected ';' after top level declarator
+;; should have been supplied along with this emacs-lisp file.  The
+              ^
+              ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:68:4: error: unknown type name 'purpose'
+;; purpose of "cscope-indexer" is to create and optionally maintain
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:68:14: error: expected ';' after top level declarator
+;; purpose of "cscope-indexer" is to create and optionally maintain
+             ^
+             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:69:4: error: unknown type name 'the'
+;; the cscope databases.  If all of your source files are in one
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:69:14: error: expected ';' after top level declarator
+;; the cscope databases.  If all of your source files are in one
+             ^
+             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:70:4: warning: type specifier missing, defaults to 'int'
+;; directory, you don't need this script; it's very nice to have,
+   ^~~~~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:70:15: warning: type specifier missing, defaults to 'int'
+;; directory, you don't need this script; it's very nice to have,
+   ~~~~~~~~~  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:70:18: error: expected ';' after top level declarator
+;; directory, you don't need this script; it's very nice to have,
+                 ^
+                 ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:71:4: warning: type specifier missing, defaults to 'int'
+;; though, as it handles recursive subdirectory indexing, and can be
+   ^~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:71:12: warning: type specifier missing, defaults to 'int'
+;; though, as it handles recursive subdirectory indexing, and can be
+   ~~~~~~  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:71:14: error: expected ';' after top level declarator
+;; though, as it handles recursive subdirectory indexing, and can be
+             ^
+             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:72:4: error: unknown type name 'used'
+;; used in a nightly or weekly cron job to index very large source
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:72:11: error: expected ';' after top level declarator
+;; used in a nightly or weekly cron job to index very large source
+          ^
+          ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:73:4: error: unknown type name 'repositories'
+;; repositories.  See the beginning of the file, "cscope-indexer", for
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:73:16: error: expected identifier or '('
+;; repositories.  See the beginning of the file, "cscope-indexer", for
+               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:74:4: error: unknown type name 'usage'
+;; usage information.
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:74:21: error: expected ';' after top level declarator
+;; usage information.
+                    ^
+                    ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:76:4: error: unknown type name 'Installation'
+;; Installation steps:
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:76:22: error: expected ';' after top level declarator
+;; Installation steps:
+                     ^
+                     ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:78:4: error: expected identifier or '('
+;; 0. (It is, of course, assumed that cscope is already properly
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:81:4: error: expected identifier or '('
+;; 1. Install the "cscope-indexer" script into some convenient
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:82:7: error: unknown type name 'directory'
+;;    directory in $PATH.  The only real constraint is that (X)Emacs
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:82:19: error: expected ';' after top level declarator
+;;    directory in $PATH.  The only real constraint is that (X)Emacs
+                  ^
+                  ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:83:7: error: unknown type name 'must'
+;;    must be able to find and execute it.  You may also have to edit
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:83:14: error: expected ';' after top level declarator
+;;    must be able to find and execute it.  You may also have to edit
+             ^
+             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:84:7: error: unknown type name 'the'
+;;    the value of PATH in the script, although this is unlikely; the
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:84:16: error: expected ';' after top level declarator
+;;    the value of PATH in the script, although this is unlikely; the
+               ^
+               ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:84:67: warning: type specifier missing, defaults to 'int'
+;;    the value of PATH in the script, although this is unlikely; the
+                                                                  ^~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:85:7: error: unknown type name 'majority'
+;;    majority of people should be able to use the script, "as-is".
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:85:18: error: expected ';' after top level declarator
+;;    majority of people should be able to use the script, "as-is".
+                 ^
+                 ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:87:4: error: expected identifier or '('
+;; 2. Make sure that the "cscope-indexer" script is executable.  In
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:88:7: warning: type specifier missing, defaults to 'int'
+;;    particular, if you had to ftp this file, it is probably no
+      ^~~~~~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:88:19: error: expected identifier or '('
+;;    particular, if you had to ftp this file, it is probably no
+                  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:88:18: error: expected ';' after top level declarator
+;;    particular, if you had to ftp this file, it is probably no
+                 ^
+                 ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:89:7: error: unknown type name 'longer'
+;;    longer executable.
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:89:24: error: expected ';' after top level declarator
+;;    longer executable.
+                       ^
+                       ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:91:4: error: expected identifier or '('
+;; 3. Put this emacs-lisp file somewhere where (X)Emacs can find it.  It
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:92:7: error: unknown type name 'basically'
+;;    basically has to be in some directory listed in "load-path".
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:92:20: error: expected ';' after top level declarator
+;;    basically has to be in some directory listed in "load-path".
+                   ^
+                   ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:94:4: error: expected identifier or '('
+;; 4. Edit your ~/.emacs file to add the line:
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:96:18: error: missing terminating ' character
+;;      (require 'xcscope)
+                 ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:96:18: error: expected ')'
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:96:9: note: to match this '('
+;;      (require 'xcscope)
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:96:10: warning: type specifier missing, defaults to 'int'
+;;      (require 'xcscope)
+        ~^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:98:4: error: expected identifier or '('
+;; 5. If you intend to use xcscope.el often you can optionally edit your
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:99:7: error: expected identifier or '('
+;;    ~/.emacs file to add keybindings that reduce the number of keystrokes
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:100:7: error: unknown type name 'required'
+;;    required.  For example, the following will add "C-f#" keybindings, which
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:100:15: error: expected identifier or '('
+;;    required.  For example, the following will add "C-f#" keybindings, which
+              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:101:7: error: unknown type name 'are'
+;;    are easier to type than the usual "C-c s" prefixed keybindings.  Note
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:101:17: error: expected ';' after top level declarator
+;;    are easier to type than the usual "C-c s" prefixed keybindings.  Note
+                ^
+                ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:102:7: error: unknown type name 'that'
+;;    that specifying "global-map" instead of "cscope:map" makes the
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:102:22: error: expected ';' after top level declarator
+;;    that specifying "global-map" instead of "cscope:map" makes the
+                     ^
+                     ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:103:7: error: unknown type name 'keybindings'
+;;    keybindings available in all buffers:
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:103:28: error: expected ';' after top level declarator
+;;    keybindings available in all buffers:
+                           ^
+                           ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:105:11: error: expected ')'
+;;      (define-key global-map [(control f3)]  'cscope-set-initial-directory)
+               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:105:4: note: to match this '('
+;;      (define-key global-map [(control f3)]  'cscope-set-initial-directory)
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:105:43: error: missing terminating ' character
+;;      (define-key global-map [(control f3)]  'cscope-set-initial-directory)
+                                               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:105:5: warning: type specifier missing, defaults to 'int'
+;;      (define-key global-map [(control f3)]  'cscope-set-initial-directory)
+        ~^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:106:11: error: expected ')'
+;;      (define-key global-map [(control f4)]  'cscope-unset-initial-directory)
+               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:106:4: note: to match this '('
+;;      (define-key global-map [(control f4)]  'cscope-unset-initial-directory)
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:106:43: error: missing terminating ' character
+;;      (define-key global-map [(control f4)]  'cscope-unset-initial-directory)
+                                               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:106:5: warning: type specifier missing, defaults to 'int'
+;;      (define-key global-map [(control f4)]  'cscope-unset-initial-directory)
+        ~^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:107:11: error: expected ')'
+;;      (define-key global-map [(control f5)]  'cscope-find-this-symbol)
+               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:107:4: note: to match this '('
+;;      (define-key global-map [(control f5)]  'cscope-find-this-symbol)
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:107:43: error: missing terminating ' character
+;;      (define-key global-map [(control f5)]  'cscope-find-this-symbol)
+                                               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:107:5: warning: type specifier missing, defaults to 'int'
+;;      (define-key global-map [(control f5)]  'cscope-find-this-symbol)
+        ~^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:108:11: error: expected ')'
+;;      (define-key global-map [(control f6)]  'cscope-find-global-definition)
+               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:108:4: note: to match this '('
+;;      (define-key global-map [(control f6)]  'cscope-find-global-definition)
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:108:43: error: missing terminating ' character
+;;      (define-key global-map [(control f6)]  'cscope-find-global-definition)
+                                               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:108:5: warning: type specifier missing, defaults to 'int'
+;;      (define-key global-map [(control f6)]  'cscope-find-global-definition)
+        ~^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:109:11: error: expected ')'
+;;      (define-key global-map [(control f7)]
+               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:109:4: note: to match this '('
+;;      (define-key global-map [(control f7)]
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:109:5: warning: type specifier missing, defaults to 'int'
+;;      (define-key global-map [(control f7)]
+        ~^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:110:6: error: missing terminating ' character
+;;        'cscope-find-global-definition-no-prompting)
+          ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:110:6: error: expected identifier or '('
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:111:11: error: expected ')'
+;;      (define-key global-map [(control f8)]  'cscope-pop-mark)
+               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:111:4: note: to match this '('
+;;      (define-key global-map [(control f8)]  'cscope-pop-mark)
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:111:43: error: missing terminating ' character
+;;      (define-key global-map [(control f8)]  'cscope-pop-mark)
+                                               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:111:5: warning: type specifier missing, defaults to 'int'
+;;      (define-key global-map [(control f8)]  'cscope-pop-mark)
+        ~^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:112:11: error: expected ')'
+;;      (define-key global-map [(control f9)]  'cscope-next-symbol)
+               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:112:4: note: to match this '('
+;;      (define-key global-map [(control f9)]  'cscope-next-symbol)
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:112:43: error: missing terminating ' character
+;;      (define-key global-map [(control f9)]  'cscope-next-symbol)
+                                               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:112:5: warning: type specifier missing, defaults to 'int'
+;;      (define-key global-map [(control f9)]  'cscope-next-symbol)
+        ~^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:113:11: error: expected ')'
+;;      (define-key global-map [(control f10)] 'cscope-next-file)
+               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:113:4: note: to match this '('
+;;      (define-key global-map [(control f10)] 'cscope-next-file)
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:113:43: error: missing terminating ' character
+;;      (define-key global-map [(control f10)] 'cscope-next-file)
+                                               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:113:5: warning: type specifier missing, defaults to 'int'
+;;      (define-key global-map [(control f10)] 'cscope-next-file)
+        ~^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:114:11: error: expected ')'
+;;      (define-key global-map [(control f11)] 'cscope-prev-symbol)
+               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:114:4: note: to match this '('
+;;      (define-key global-map [(control f11)] 'cscope-prev-symbol)
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:114:43: error: missing terminating ' character
+;;      (define-key global-map [(control f11)] 'cscope-prev-symbol)
+                                               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:114:5: warning: type specifier missing, defaults to 'int'
+;;      (define-key global-map [(control f11)] 'cscope-prev-symbol)
+        ~^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:115:11: error: expected ')'
+;;      (define-key global-map [(control f12)] 'cscope-prev-file)
+               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:115:4: note: to match this '('
+;;      (define-key global-map [(control f12)] 'cscope-prev-file)
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:115:43: error: missing terminating ' character
+;;      (define-key global-map [(control f12)] 'cscope-prev-file)
+                                               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:115:5: warning: type specifier missing, defaults to 'int'
+;;      (define-key global-map [(control f12)] 'cscope-prev-file)
+        ~^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:116:16: error: expected ')'
+;;      (define-key global-map [(meta f9)]  'cscope-display-buffer)
+               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:116:9: note: to match this '('
+;;      (define-key global-map [(meta f9)]  'cscope-display-buffer)
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:116:45: error: missing terminating ' character
+;;      (define-key global-map [(meta f9)]  'cscope-display-buffer)
+                                            ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:116:10: warning: type specifier missing, defaults to 'int'
+;;      (define-key global-map [(meta f9)]  'cscope-display-buffer)
+        ~^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:117:15: error: expected ')'
+;;      (defin-ekey global-map [(meta f10)] 'cscope-display-buffer-toggle)
+              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:117:9: note: to match this '('
+;;      (defin-ekey global-map [(meta f10)] 'cscope-display-buffer-toggle)
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:117:45: error: missing terminating ' character
+;;      (defin-ekey global-map [(meta f10)] 'cscope-display-buffer-toggle)
+                                            ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:117:10: warning: type specifier missing, defaults to 'int'
+;;      (defin-ekey global-map [(meta f10)] 'cscope-display-buffer-toggle)
+        ~^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:119:4: error: expected identifier or '('
+;; 6. Restart (X)Emacs.  That's it.
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:119:30: error: missing terminating ' character
+;; 6. Restart (X)Emacs.  That's it.
+                             ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:124:10: warning: type specifier missing, defaults to 'int'
+;; ***** USING THIS MODULE *****
+   ~     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:124:15: error: expected ';' after top level declarator
+;; ***** USING THIS MODULE *****
+              ^
+              ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:126:6: warning: type specifier missing, defaults to 'int'
+;; * Basic usage:
+   ~ ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:126:11: error: expected ';' after top level declarator
+;; * Basic usage:
+          ^
+          ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:128:4: error: unknown type name 'If'
+;; If all of your C/C++/lex/yacc source files are in the same
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:128:10: error: expected ';' after top level declarator
+;; If all of your C/C++/lex/yacc source files are in the same
+         ^
+         ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:129:4: warning: type specifier missing, defaults to 'int'
+;; directory, you can just start using this module.  If your files are
+   ^~~~~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:129:15: warning: type specifier missing, defaults to 'int'
+;; directory, you can just start using this module.  If your files are
+   ~~~~~~~~~  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:129:18: error: expected ';' after top level declarator
+;; directory, you can just start using this module.  If your files are
+                 ^
+                 ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:130:4: error: unknown type name 'spread'
+;; spread out over multiple directories, see "Advanced usage", below.
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:130:14: error: expected ';' after top level declarator
+;; spread out over multiple directories, see "Advanced usage", below.
+             ^
+             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:132:4: error: unknown type name 'Just'
+;; Just edit a source file, and use the pull-down or pop-up (button 3)
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:132:13: error: expected ';' after top level declarator
+;; Just edit a source file, and use the pull-down or pop-up (button 3)
+            ^
+            ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:133:4: error: unknown type name 'menus'
+;; menus to select one of:
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:133:12: error: expected ';' after top level declarator
+;; menus to select one of:
+           ^
+           ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:135:12: error: unknown type name 'Find'
+;;         Find symbol
+           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:136:12: error: unknown type name 'Find'
+;;         Find global definition
+           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:136:23: error: expected ';' after top level declarator
+;;         Find global definition
+                      ^
+                      ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:137:12: error: unknown type name 'Find'
+;;         Find called functions
+           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:137:23: error: expected ';' after top level declarator
+;;         Find called functions
+                      ^
+                      ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:138:12: error: unknown type name 'Find'
+;;         Find functions calling a function
+           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:138:26: error: expected ';' after top level declarator
+;;         Find functions calling a function
+                         ^
+                         ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:139:12: error: unknown type name 'Find'
+;;         Find text string
+           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:139:21: error: expected ';' after top level declarator
+;;         Find text string
+                    ^
+                    ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:140:12: error: unknown type name 'Find'
+;;         Find egrep pattern
+           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:140:22: error: expected ';' after top level declarator
+;;         Find egrep pattern
+                     ^
+                     ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:141:12: error: unknown type name 'Find'
+;;         Find a file
+           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:141:18: error: expected ';' after top level declarator
+;;         Find a file
+                 ^
+                 ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:142:12: error: unknown type name 'Find'
+;;         Find files #including a file
+           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:142:22: error: expected ';' after top level declarator
+;;         Find files #including a file
+                     ^
+                     ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:144:4: error: unknown type name 'The'
+;; The cscope database will be automatically created in the same
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:144:14: error: expected ';' after top level declarator
+;; The cscope database will be automatically created in the same
+             ^
+             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:145:4: error: unknown type name 'directory'
+;; directory as the source files (assuming that you've never used
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:145:16: error: expected ';' after top level declarator
+;; directory as the source files (assuming that you've never used
+               ^
+               ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:145:52: error: missing terminating ' character
+;; directory as the source files (assuming that you've never used
+                                                   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:147:4: error: unknown type name 'You'
+;; You can then use button 2 (the middle button) on the mouse to edit
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:147:11: error: expected ';' after top level declarator
+;; You can then use button 2 (the middle button) on the mouse to edit
+          ^
+          ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:148:4: error: unknown type name 'the'
+;; the selected file, or you can move the text cursor over a selection
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:148:16: error: expected ';' after top level declarator
+;; the selected file, or you can move the text cursor over a selection
+               ^
+               ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:149:4: error: unknown type name 'and'
+;; and press [Enter].
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:149:15: error: use of undeclared identifier 'Enter'
+;; and press [Enter].
+              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:149:21: error: expected ';' after top level declarator
+;; and press [Enter].
+                    ^
+                    ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:151:4: warning: type specifier missing, defaults to 'int'
+;; Hopefully, the interface should be fairly intuitive.
+   ^~~~~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:151:15: warning: type specifier missing, defaults to 'int'
+;; Hopefully, the interface should be fairly intuitive.
+   ~~~~~~~~~  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:151:18: error: expected ';' after top level declarator
+;; Hopefully, the interface should be fairly intuitive.
+                 ^
+                 ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:154:6: warning: type specifier missing, defaults to 'int'
+;; * Locating the cscope databases:
+   ~ ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:154:14: error: expected ';' after top level declarator
+;; * Locating the cscope databases:
+             ^
+             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:156:4: error: unknown type name 'This'
+;; This module will first use the variable, `cscope-database-regexps',
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:156:15: error: expected ';' after top level declarator
+;; This module will first use the variable, `cscope-database-regexps',
+              ^
+              ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:156:69: error: missing terminating ' character
+;; This module will first use the variable, `cscope-database-regexps',
+                                                                    ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:157:4: error: unknown type name 'to'
+;; to search for a suitable database directory.  If a database location
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:157:13: error: expected ';' after top level declarator
+;; to search for a suitable database directory.  If a database location
+            ^
+            ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:158:4: error: unknown type name 'cannot'
+;; cannot be found using this variable then a search is begun at the
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:158:13: error: expected ';' after top level declarator
+;; cannot be found using this variable then a search is begun at the
+            ^
+            ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:159:4: warning: type specifier missing, defaults to 'int'
+;; variable, `cscope-initial-directory', if set, or the current
+   ^~~~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:159:14: error: expected identifier or '('
+;; variable, `cscope-initial-directory', if set, or the current
+             ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:159:13: error: expected ';' after top level declarator
+;; variable, `cscope-initial-directory', if set, or the current
+            ^
+            ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:159:39: error: missing terminating ' character
+;; variable, `cscope-initial-directory', if set, or the current
+                                      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:160:4: error: unknown type name 'directory'
+;; directory otherwise.  If the directory is not a cscope database
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:160:23: error: expected ';' after top level declarator
+;; directory otherwise.  If the directory is not a cscope database
+                      ^
+                      ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:161:4: error: unknown type name 'directory'
+;; directory then the directory's parent, parent's parent, etc. is
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:161:18: error: expected ';' after top level declarator
+;; directory then the directory's parent, parent's parent, etc. is
+                 ^
+                 ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:162:4: error: unknown type name 'searched'
+;; searched until a cscope database directory is found, or the root
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:162:18: error: expected ';' after top level declarator
+;; searched until a cscope database directory is found, or the root
+                 ^
+                 ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:163:4: error: unknown type name 'directory'
+;; directory is reached.  If the root directory is reached, the current
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:163:16: error: expected ';' after top level declarator
+;; directory is reached.  If the root directory is reached, the current
+               ^
+               ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:164:4: error: unknown type name 'directory'
+;; directory will be used.
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:164:18: error: expected ';' after top level declarator
+;; directory will be used.
+                 ^
+                 ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:166:4: error: unknown type name 'A'
+;; A cscope database directory is one in which EITHER a cscope database
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:166:12: error: expected ';' after top level declarator
+;; A cscope database directory is one in which EITHER a cscope database
+           ^
+           ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:167:10: error: unknown type name 'e'
+;; file (e.g., "cscope.out") OR a cscope file list (e.g.,
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:167:11: error: expected ')'
+;; file (e.g., "cscope.out") OR a cscope file list (e.g.,
+          ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:167:9: note: to match this '('
+;; file (e.g., "cscope.out") OR a cscope file list (e.g.,
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:167:30: error: expected function body after function declarator
+;; file (e.g., "cscope.out") OR a cscope file list (e.g.,
+                             ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:169:4: error: unknown type name 'corresponding'
+;; corresponding "cscope.out" will be automatically created by cscope
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:169:18: error: expected identifier or '('
+;; corresponding "cscope.out" will be automatically created by cscope
+                 ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:170:4: error: unknown type name 'when'
+;; when a search is done.  By default, the cscope database file is called
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:170:10: error: expected ';' after top level declarator
+;; when a search is done.  By default, the cscope database file is called
+         ^
+         ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:171:4: error: expected identifier or '('
+;; "cscope.out", but this can be changed (on a global basis) via the
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:172:4: warning: type specifier missing, defaults to 'int'
+;; variable, `cscope-database-file'.  There is limited support for cscope
+   ^~~~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:172:14: error: expected identifier or '('
+;; variable, `cscope-database-file'.  There is limited support for cscope
+             ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:172:13: error: expected ';' after top level declarator
+;; variable, `cscope-database-file'.  There is limited support for cscope
+            ^
+            ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:172:35: error: missing terminating ' character
+;; variable, `cscope-database-file'.  There is limited support for cscope
+                                  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:173:4: error: unknown type name 'databases'
+;; databases that are named differently than that given by
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:173:18: error: expected ';' after top level declarator
+;; databases that are named differently than that given by
+                 ^
+                 ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:174:4: error: expected identifier or '('
+;; `cscope-database-file', using the variable, `cscope-database-regexps'.
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:176:4: error: unknown type name 'Note'
+;; Note that the variable, `cscope-database-regexps', is generally not
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:176:13: error: expected ';' after top level declarator
+;; Note that the variable, `cscope-database-regexps', is generally not
+            ^
+            ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:176:52: error: missing terminating ' character
+;; Note that the variable, `cscope-database-regexps', is generally not
+                                                   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:177:4: warning: type specifier missing, defaults to 'int'
+;; needed, as the normal hierarchical database search is sufficient
+   ^~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:177:12: warning: type specifier missing, defaults to 'int'
+;; needed, as the normal hierarchical database search is sufficient
+   ~~~~~~  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:177:14: error: expected ';' after top level declarator
+;; needed, as the normal hierarchical database search is sufficient
+             ^
+             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:178:4: error: expected identifier or '('
+;; for placing and/or locating the cscope databases.  However, there
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:179:4: error: unknown type name 'may'
+;; may be cases where it makes sense to place the cscope databases
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:179:10: error: expected ';' after top level declarator
+;; may be cases where it makes sense to place the cscope databases
+         ^
+         ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:180:4: error: unknown type name 'away'
+;; away from where the source files are kept; in this case, this
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:180:13: error: expected ';' after top level declarator
+;; away from where the source files are kept; in this case, this
+            ^
+            ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:180:47: error: unknown type name 'in'
+;; away from where the source files are kept; in this case, this
+                                              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:180:54: error: expected ';' after top level declarator
+;; away from where the source files are kept; in this case, this
+                                                     ^
+                                                     ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:181:4: error: unknown type name 'variable'
+;; variable is used to determine the mapping.  One use for this
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:181:15: error: expected ';' after top level declarator
+;; variable is used to determine the mapping.  One use for this
+              ^
+              ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:182:4: error: unknown type name 'variable'
+;; variable is when you want to share the database file with other
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:182:15: error: expected ';' after top level declarator
+;; variable is when you want to share the database file with other
+              ^
+              ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:183:4: warning: type specifier missing, defaults to 'int'
+;; users; in this case, the database may be located in a directory
+   ^~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:183:11: error: unknown type name 'in'
+;; users; in this case, the database may be located in a directory
+          ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:183:18: error: expected ';' after top level declarator
+;; users; in this case, the database may be located in a directory
+                 ^
+                 ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:184:4: error: unknown type name 'separate'
+;; separate from the source files.  
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:184:17: error: expected ';' after top level declarator
+;; separate from the source files.  
+                ^
+                ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:186:4: error: unknown type name 'Setting'
+;; Setting the variable, `cscope-initial-directory', is useful when a
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:186:15: error: expected ';' after top level declarator
+;; Setting the variable, `cscope-initial-directory', is useful when a
+              ^
+              ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:186:51: error: missing terminating ' character
+;; Setting the variable, `cscope-initial-directory', is useful when a
+                                                  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:187:4: error: unknown type name 'search'
+;; search is to be expanded by specifying a cscope database directory
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:187:13: error: expected ';' after top level declarator
+;; search is to be expanded by specifying a cscope database directory
+            ^
+            ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:188:4: error: unknown type name 'that'
+;; that is a parent of the directory that this module would otherwise
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:188:11: error: expected ';' after top level declarator
+;; that is a parent of the directory that this module would otherwise
+          ^
+          ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:189:4: error: unknown type name 'use'
+;; use.  For example, consider a project that contains the following
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:189:7: error: expected identifier or '('
+;; use.  For example, consider a project that contains the following
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:190:4: error: unknown type name 'cscope'
+;; cscope database directories:
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:190:19: error: expected ';' after top level declarator
+;; cscope database directories:
+                  ^
+                  ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:192:8: error: expected identifier or '('
+;;     /users/jdoe/sources
+       ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:193:8: error: expected identifier or '('
+;;     /users/jdoe/sources/proj1
+       ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:194:8: error: expected identifier or '('
+;;     /users/jdoe/sources/proj2
+       ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:196:4: error: unknown type name 'If'
+;; If a search is initiated from a .c file in /users/jdoe/sources/proj1
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:196:8: error: expected ';' after top level declarator
+;; If a search is initiated from a .c file in /users/jdoe/sources/proj1
+       ^
+       ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:197:10: error: unknown type name 'assuming'
+;; then (assuming the variable, `cscope-database-regexps', is not set)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:197:23: error: expected ')'
+;; then (assuming the variable, `cscope-database-regexps', is not set)
+                      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:197:9: note: to match this '('
+;; then (assuming the variable, `cscope-database-regexps', is not set)
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:197:57: error: missing terminating ' character
+;; then (assuming the variable, `cscope-database-regexps', is not set)
+                                                        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:197:4: warning: type specifier missing, defaults to 'int'
+;; then (assuming the variable, `cscope-database-regexps', is not set)
+   ^~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:198:4: error: expected identifier or '('
+;; /users/jdoe/sources/proj1 will be used as the cscope data base directory.
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:199:4: error: unknown type name 'Only'
+;; Only matches in files in /users/jdoe/sources/proj1 will be found.  This
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:199:16: error: expected ';' after top level declarator
+;; Only matches in files in /users/jdoe/sources/proj1 will be found.  This
+               ^
+               ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:200:4: error: unknown type name 'can'
+;; can be remedied by typing "C-c s a" and then "M-del" to remove single
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:200:10: error: expected ';' after top level declarator
+;; can be remedied by typing "C-c s a" and then "M-del" to remove single
+         ^
+         ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:201:4: error: unknown type name 'path'
+;; path element in order to use a cscope database directory of
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:201:16: error: expected ';' after top level declarator
+;; path element in order to use a cscope database directory of
+               ^
+               ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:202:4: error: expected identifier or '('
+;; /users/jdoe/sources.  Normal searching can be restored by typing "C-c s A".
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:205:6: warning: type specifier missing, defaults to 'int'
+;; * Keybindings:
+   ~ ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:205:17: error: expected ';' after top level declarator
+;; * Keybindings:
+                ^
+                ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:207:4: error: unknown type name 'All'
+;; All keybindings use the "C-c s" prefix, but are usable only while
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:207:19: error: expected ';' after top level declarator
+;; All keybindings use the "C-c s" prefix, but are usable only while
+                  ^
+                  ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:208:4: error: unknown type name 'editing'
+;; editing a source file, or in the cscope results buffer:
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:208:13: error: expected ';' after top level declarator
+;; editing a source file, or in the cscope results buffer:
+            ^
+            ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:210:9: error: unknown type name 'C'
+;;      C-c s s         Find symbol.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:210:10: error: expected identifier or '('
+;;      C-c s s         Find symbol.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:211:9: error: unknown type name 'C'
+;;      C-c s d         Find global definition.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:211:10: error: expected identifier or '('
+;;      C-c s d         Find global definition.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:212:9: error: unknown type name 'C'
+;;      C-c s g         Find global definition (alternate binding).
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:212:10: error: expected identifier or '('
+;;      C-c s g         Find global definition (alternate binding).
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:213:9: error: unknown type name 'C'
+;;      C-c s G         Find global definition without prompting.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:213:10: error: expected identifier or '('
+;;      C-c s G         Find global definition without prompting.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:214:9: error: unknown type name 'C'
+;;      C-c s c         Find functions calling a function.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:214:10: error: expected identifier or '('
+;;      C-c s c         Find functions calling a function.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:215:9: error: unknown type name 'C'
+;;      C-c s C         Find called functions (list functions called
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:215:10: error: expected identifier or '('
+;;      C-c s C         Find called functions (list functions called
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:217:9: error: unknown type name 'C'
+;;      C-c s t         Find text string.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:217:10: error: expected identifier or '('
+;;      C-c s t         Find text string.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:218:9: error: unknown type name 'C'
+;;      C-c s e         Find egrep pattern.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:218:10: error: expected identifier or '('
+;;      C-c s e         Find egrep pattern.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:219:9: error: unknown type name 'C'
+;;      C-c s f         Find a file.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:219:10: error: expected identifier or '('
+;;      C-c s f         Find a file.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:220:9: error: unknown type name 'C'
+;;      C-c s i         Find files #including a file.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:220:10: error: expected identifier or '('
+;;      C-c s i         Find files #including a file.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:222:4: error: unknown type name 'These'
+;; These pertain to navigation through the search results:
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:222:17: error: expected ';' after top level declarator
+;; These pertain to navigation through the search results:
+                ^
+                ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:224:9: error: unknown type name 'C'
+;;      C-c s b         Display *cscope* buffer.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:224:10: error: expected identifier or '('
+;;      C-c s b         Display *cscope* buffer.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:225:9: error: unknown type name 'C'
+;;      C-c s B         Auto display *cscope* buffer toggle.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:225:10: error: expected identifier or '('
+;;      C-c s B         Auto display *cscope* buffer toggle.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:226:9: error: unknown type name 'C'
+;;      C-c s n         Next symbol.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:226:10: error: expected identifier or '('
+;;      C-c s n         Next symbol.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:227:9: error: unknown type name 'C'
+;;      C-c s N         Next file.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:227:10: error: expected identifier or '('
+;;      C-c s N         Next file.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:228:9: error: unknown type name 'C'
+;;      C-c s p         Previous symbol.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:228:10: error: expected identifier or '('
+;;      C-c s p         Previous symbol.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:229:9: error: unknown type name 'C'
+;;      C-c s P         Previous file.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:229:10: error: expected identifier or '('
+;;      C-c s P         Previous file.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:230:9: error: unknown type name 'C'
+;;      C-c s u         Pop mark.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:230:10: error: expected identifier or '('
+;;      C-c s u         Pop mark.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:232:4: error: unknown type name 'These'
+;; These pertain to setting and unsetting the variable,
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:232:17: error: expected ';' after top level declarator
+;; These pertain to setting and unsetting the variable,
+                ^
+                ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:233:4: error: expected identifier or '('
+;; `cscope-initial-directory', (location searched for the cscope database
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:233:29: error: missing terminating ' character
+;; `cscope-initial-directory', (location searched for the cscope database
+                            ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:234:5: warning: type specifier missing, defaults to 'int'
+;;  directory):
+    ^~~~~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:234:14: error: expected ';' after top level declarator
+;;  directory):
+             ^
+             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:236:9: error: unknown type name 'C'
+;;      C-c s a         Set initial directory.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:236:10: error: expected identifier or '('
+;;      C-c s a         Set initial directory.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:237:9: error: unknown type name 'C'
+;;      C-c s A         Unset initial directory.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:237:10: error: expected identifier or '('
+;;      C-c s A         Unset initial directory.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:239:4: error: unknown type name 'These'
+;; These pertain to cscope database maintenance:
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:239:17: error: expected ';' after top level declarator
+;; These pertain to cscope database maintenance:
+                ^
+                ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:241:9: error: unknown type name 'C'
+;;      C-c s L         Create list of files to index.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:241:10: error: expected identifier or '('
+;;      C-c s L         Create list of files to index.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:242:9: error: unknown type name 'C'
+;;      C-c s I         Create list and index.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:242:10: error: expected identifier or '('
+;;      C-c s I         Create list and index.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:243:9: error: unknown type name 'C'
+;;      C-c s E         Edit list of files to index.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:243:10: error: expected identifier or '('
+;;      C-c s E         Edit list of files to index.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:244:9: error: unknown type name 'C'
+;;      C-c s W         Locate this buffer's cscope directory
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:244:10: error: expected identifier or '('
+;;      C-c s W         Locate this buffer's cscope directory
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:244:43: error: missing terminating ' character
+;;      C-c s W         Locate this buffer's cscope directory
+                                          ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:245:26: error: expected identifier or '('
+;;                      ("W" --> "where").
+                         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:245:26: error: expected ')'
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:245:25: note: to match this '('
+;;                      ("W" --> "where").
+                        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:246:9: error: unknown type name 'C'
+;;      C-c s S         Locate this buffer's cscope directory.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:246:10: error: expected identifier or '('
+;;      C-c s S         Locate this buffer's cscope directory.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:246:43: error: missing terminating ' character
+;;      C-c s S         Locate this buffer's cscope directory.
+                                          ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:247:36: error: expected ')'
+;;                      (alternate binding: "S" --> "show").
+                                   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:247:25: note: to match this '('
+;;                      (alternate binding: "S" --> "show").
+                        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:247:26: warning: type specifier missing, defaults to 'int'
+;;                      (alternate binding: "S" --> "show").
+                        ~^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:247:60: error: expected ';' after top level declarator
+;;                      (alternate binding: "S" --> "show").
+                                                           ^
+                                                           ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:248:9: error: unknown type name 'C'
+;;      C-c s T         Locate this buffer's cscope directory.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:248:10: error: expected identifier or '('
+;;      C-c s T         Locate this buffer's cscope directory.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:248:43: error: missing terminating ' character
+;;      C-c s T         Locate this buffer's cscope directory.
+                                          ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:249:36: error: expected ')'
+;;                      (alternate binding: "T" --> "tell").
+                                   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:249:25: note: to match this '('
+;;                      (alternate binding: "T" --> "tell").
+                        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:249:26: warning: type specifier missing, defaults to 'int'
+;;                      (alternate binding: "T" --> "tell").
+                        ~^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:249:60: error: expected ';' after top level declarator
+;;                      (alternate binding: "T" --> "tell").
+                                                           ^
+                                                           ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:250:9: error: unknown type name 'C'
+;;      C-c s D         Dired this buffer's directory.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:250:10: error: expected identifier or '('
+;;      C-c s D         Dired this buffer's directory.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:250:42: error: missing terminating ' character
+;;      C-c s D         Dired this buffer's directory.
+                                         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:253:6: warning: type specifier missing, defaults to 'int'
+;; * Advanced usage:
+   ~ ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:253:14: error: expected ';' after top level declarator
+;; * Advanced usage:
+             ^
+             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:255:4: error: unknown type name 'If'
+;; If the source files are spread out over multiple directories,
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:255:10: error: expected ';' after top level declarator
+;; If the source files are spread out over multiple directories,
+         ^
+         ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:256:7: error: missing terminating ' character
+;; you've got a few choices:
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:256:4: error: unknown type name 'you'
+;; you've got a few choices:
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:256:7: error: expected identifier or '('
+;; you've got a few choices:
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:258:4: error: expected identifier or '('
+;; [ NOTE: you will need to have the script, "cscope-indexer",
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:258:10: error: expected ']'
+;; [ NOTE: you will need to have the script, "cscope-indexer",
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:258:4: note: to match this '['
+;; [ NOTE: you will need to have the script, "cscope-indexer",
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:259:6: error: unknown type name 'properly'
+;;   properly installed in order for the following to work.  ]
+     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:259:24: error: expected ';' after top level declarator
+;;   properly installed in order for the following to work.  ]
+                       ^
+                       ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:261:4: error: expected identifier or '('
+;; 1. If all of the directories exist below a common directory
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:262:16: error: expected ')'
+;;    (without any extraneous, unrelated subdirectories), you can tell
+               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:262:7: note: to match this '('
+;;    (without any extraneous, unrelated subdirectories), you can tell
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:262:8: warning: type specifier missing, defaults to 'int'
+;;    (without any extraneous, unrelated subdirectories), you can tell
+      ~^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:262:59: warning: type specifier missing, defaults to 'int'
+;;    (without any extraneous, unrelated subdirectories), you can tell
+      ~                                                   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:262:62: error: expected ';' after top level declarator
+;;    (without any extraneous, unrelated subdirectories), you can tell
+                                                             ^
+                                                             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:263:7: error: unknown type name 'this'
+;;    this module to place the cscope database into the top-level,
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:263:18: error: expected ';' after top level declarator
+;;    this module to place the cscope database into the top-level,
+                 ^
+                 ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:264:7: error: unknown type name 'common'
+;;    common directory.  This assumes that you do not have any cscope
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:264:23: error: expected ';' after top level declarator
+;;    common directory.  This assumes that you do not have any cscope
+                      ^
+                      ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:265:7: error: unknown type name 'databases'
+;;    databases in any of the subdirectories.  If you do, you should
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:265:19: error: expected ';' after top level declarator
+;;    databases in any of the subdirectories.  If you do, you should
+                  ^
+                  ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:266:7: error: unknown type name 'delete'
+;;    delete them; otherwise, they will take precedence over the
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:266:20: warning: type specifier missing, defaults to 'int'
+;;    delete them; otherwise, they will take precedence over the
+                   ^~~~~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:266:31: warning: type specifier missing, defaults to 'int'
+;;    delete them; otherwise, they will take precedence over the
+                   ~~~~~~~~~  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:266:35: error: expected ';' after top level declarator
+;;    delete them; otherwise, they will take precedence over the
+                                  ^
+                                  ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:267:7: error: unknown type name 'top'
+;;    top-level database.
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:267:10: error: expected identifier or '('
+;;    top-level database.
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:269:7: error: unknown type name 'If'
+;;    If you do have cscope databases in any subdirectory, the
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:269:13: error: expected ';' after top level declarator
+;;    If you do have cscope databases in any subdirectory, the
+            ^
+            ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:270:7: error: unknown type name 'following'
+;;    following instructions may not work right.
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:270:29: error: expected ';' after top level declarator
+;;    following instructions may not work right.
+                            ^
+                            ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:272:9: error: missing terminating ' character
+;;    It's pretty easy to tell this module to use a top-level, common
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:272:7: error: unknown type name 'It'
+;;    It's pretty easy to tell this module to use a top-level, common
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:272:9: error: expected identifier or '('
+;;    It's pretty easy to tell this module to use a top-level, common
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:273:7: warning: type specifier missing, defaults to 'int'
+;;    directory:
+      ^~~~~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:273:16: error: expected ';' after top level declarator
+;;    directory:
+               ^
+               ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:275:7: error: unknown type name 'a'
+;;    a. Make sure that the menu pick, "Cscope/Index recursively", is
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:275:8: error: expected identifier or '('
+;;    a. Make sure that the menu pick, "Cscope/Index recursively", is
+       ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:276:19: error: unknown type name 'the'
+;;       checked (the default value).
+                  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:276:23: error: expected ')'
+;;       checked (the default value).
+                      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:276:18: note: to match this '('
+;;       checked (the default value).
+                 ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:276:37: error: expected function body after function declarator
+;;       checked (the default value).
+                                    ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:278:7: error: unknown type name 'b'
+;;    b. Select the menu pick, "Cscope/Create list and index", and
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:278:8: error: expected identifier or '('
+;;    b. Select the menu pick, "Cscope/Create list and index", and
+       ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:279:10: error: unknown type name 'specify'
+;;       specify the top-level directory.  This will run the script,
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:279:21: error: expected ';' after top level declarator
+;;       specify the top-level directory.  This will run the script,
+                    ^
+                    ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:280:10: error: expected identifier or '('
+;;       "cscope-indexer", in the background, so you can do other
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:281:10: error: unknown type name 'things'
+;;       things if indexing takes a long time.  A list of files to
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:281:17: error: expected identifier or '('
+;;       things if indexing takes a long time.  A list of files to
+                ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:282:10: error: unknown type name 'index'
+;;       index will be created in "cscope.files", and the cscope
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:282:20: error: expected ';' after top level declarator
+;;       index will be created in "cscope.files", and the cscope
+                   ^
+                   ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:283:10: error: unknown type name 'database'
+;;       database will be created in "cscope.out".
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:283:23: error: expected ';' after top level declarator
+;;       database will be created in "cscope.out".
+                      ^
+                      ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:285:7: error: unknown type name 'Once'
+;;    Once this has been done, you can then use the menu picks
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:285:16: error: expected ';' after top level declarator
+;;    Once this has been done, you can then use the menu picks
+               ^
+               ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:286:18: error: expected ')'
+;;    (described in "Basic usage", above) to search for symbols.
+                 ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:286:7: note: to match this '('
+;;    (described in "Basic usage", above) to search for symbols.
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:286:8: warning: type specifier missing, defaults to 'int'
+;;    (described in "Basic usage", above) to search for symbols.
+      ~^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:286:42: error: expected ';' after top level declarator
+;;    (described in "Basic usage", above) to search for symbols.
+                                         ^
+                                         ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:288:7: warning: type specifier missing, defaults to 'int'
+;;    Note, however, that, if you add or delete source files, you'll
+      ^~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:288:13: warning: type specifier missing, defaults to 'int'
+;;    Note, however, that, if you add or delete source files, you'll
+      ~~~~  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:288:22: warning: type specifier missing, defaults to 'int'
+;;    Note, however, that, if you add or delete source files, you'll
+      ~~~~           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:288:28: error: expected identifier or '('
+;;    Note, however, that, if you add or delete source files, you'll
+                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:288:27: error: expected ';' after top level declarator
+;;    Note, however, that, if you add or delete source files, you'll
+                          ^
+                          ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:288:66: error: missing terminating ' character
+;;    Note, however, that, if you add or delete source files, you'll
+                                                                 ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:289:7: error: unknown type name 'have'
+;;    have to either rebuild the database using the above procedure,
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:289:14: error: expected ';' after top level declarator
+;;    have to either rebuild the database using the above procedure,
+             ^
+             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:290:7: error: unknown type name 'or'
+;;    or edit the file, "cscope.files" to add/delete the names of the
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:290:14: error: expected ';' after top level declarator
+;;    or edit the file, "cscope.files" to add/delete the names of the
+             ^
+             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:291:7: error: unknown type name 'source'
+;;    source files.  To edit this file, you can use the menu pick,
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:291:19: error: expected ';' after top level declarator
+;;    source files.  To edit this file, you can use the menu pick,
+                  ^
+                  ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:292:7: error: expected identifier or '('
+;;    "Cscope/Edit list of files to index".
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:295:4: error: expected identifier or '('
+;; 2. If most of the files exist below a common directory, but a few
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:296:7: error: unknown type name 'are'
+;;    are outside, you can use the menu pick, "Cscope/Create list of
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:296:23: error: expected ';' after top level declarator
+;;    are outside, you can use the menu pick, "Cscope/Create list of
+                      ^
+                      ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:296:47: error: missing terminating '"' character
+;;    are outside, you can use the menu pick, "Cscope/Create list of
+                                              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:297:7: error: unknown type name 'files'
+;;    files to index", and specify the top-level directory.  Make sure
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:297:15: error: expected ';' after top level declarator
+;;    files to index", and specify the top-level directory.  Make sure
+              ^
+              ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:297:21: error: missing terminating '"' character
+;;    files to index", and specify the top-level directory.  Make sure
+                    ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:298:7: error: unknown type name 'that'
+;;    that "Cscope/Index recursively", is checked before you do so,
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:298:12: error: expected identifier or '('
+;;    that "Cscope/Index recursively", is checked before you do so,
+           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:299:7: error: unknown type name 'though'
+;;    though.  You can then edit the list of files to index using the
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:299:13: error: expected identifier or '('
+;;    though.  You can then edit the list of files to index using the
+            ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:300:7: error: unknown type name 'menu'
+;;    menu pick, "Cscope/Edit list of files to index".  Just edit the
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:300:18: error: expected identifier or '('
+;;    menu pick, "Cscope/Edit list of files to index".  Just edit the
+                 ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:300:17: error: expected ';' after top level declarator
+;;    menu pick, "Cscope/Edit list of files to index".  Just edit the
+                ^
+                ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:301:7: error: unknown type name 'list'
+;;    list to include any additional source files not already listed.
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:301:14: error: expected ';' after top level declarator
+;;    list to include any additional source files not already listed.
+             ^
+             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:303:7: error: unknown type name 'Once'
+;;    Once you've created, edited, and saved the list, you can then
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:303:15: error: missing terminating ' character
+;;    Once you've created, edited, and saved the list, you can then
+              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:303:15: error: expected ';' after top level declarator
+;;    Once you've created, edited, and saved the list, you can then
+              ^
+              ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:304:7: error: unknown type name 'use'
+;;    use the menu picks described under "Basic usage", above, to
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:304:14: error: expected ';' after top level declarator
+;;    use the menu picks described under "Basic usage", above, to
+             ^
+             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:305:7: error: unknown type name 'search'
+;;    search for symbols.  The first time you search, you will have to
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:305:14: error: expected identifier or '('
+;;    search for symbols.  The first time you search, you will have to
+             ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:306:7: error: unknown type name 'wait'
+;;    wait a while for cscope to fully index the source files, though.
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:306:13: error: expected ';' after top level declarator
+;;    wait a while for cscope to fully index the source files, though.
+            ^
+            ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:307:7: error: unknown type name 'If'
+;;    If you have a lot of source files, you may want to manually run
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:307:13: error: expected ';' after top level declarator
+;;    If you have a lot of source files, you may want to manually run
+            ^
+            ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:308:7: error: unknown type name 'cscope'
+;;    cscope to build the database:
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:308:16: error: expected ';' after top level declarator
+;;    cscope to build the database:
+               ^
+               ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:310:15: error: unknown type name 'cd'
+;;            cd top-level-directory    # or wherever
+              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:310:21: error: expected ';' after top level declarator
+;;            cd top-level-directory    # or wherever
+                    ^
+                    ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:311:15: error: unknown type name 'rm'
+;;            rm -f cscope.out          # not always necessary
+              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:311:18: error: expected identifier or '('
+;;            rm -f cscope.out          # not always necessary
+                 ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:312:15: error: unknown type name 'cscope'
+;;            cscope -b
+              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:312:22: error: expected identifier or '('
+;;            cscope -b
+                     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:315:4: error: expected identifier or '('
+;; 3. If the source files are scattered in many different, unrelated
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:316:7: warning: type specifier missing, defaults to 'int'
+;;    places, you'll have to manually create cscope.files and put a
+      ^~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:316:18: error: missing terminating ' character
+;;    places, you'll have to manually create cscope.files and put a
+                 ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:316:15: warning: type specifier missing, defaults to 'int'
+;;    places, you'll have to manually create cscope.files and put a
+      ~~~~~~  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:316:18: error: expected ';' after top level declarator
+;;    places, you'll have to manually create cscope.files and put a
+                 ^
+                 ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:317:7: error: unknown type name 'list'
+;;    list of all pathnames into it.  Then build the database using:
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:317:14: error: expected ';' after top level declarator
+;;    list of all pathnames into it.  Then build the database using:
+             ^
+             ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:319:15: error: unknown type name 'cd'
+;;            cd some-directory         # wherever cscope.files exists
+              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:319:22: error: expected ';' after top level declarator
+;;            cd some-directory         # wherever cscope.files exists
+                     ^
+                     ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:320:15: error: unknown type name 'rm'
+;;            rm -f cscope.out          # not always necessary
+              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:320:18: error: expected identifier or '('
+;;            rm -f cscope.out          # not always necessary
+                 ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:321:15: error: unknown type name 'cscope'
+;;            cscope -b
+              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:321:22: error: expected identifier or '('
+;;            cscope -b
+                     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:323:7: warning: type specifier missing, defaults to 'int'
+;;    Next, read the documentation for the variable,
+      ^~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:323:13: warning: type specifier missing, defaults to 'int'
+;;    Next, read the documentation for the variable,
+      ~~~~  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:323:17: error: expected ';' after top level declarator
+;;    Next, read the documentation for the variable,
+                ^
+                ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:324:7: error: expected identifier or '('
+;;    "cscope-database-regexps", and set it appropriately, such that
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:325:7: error: unknown type name 'the'
+;;    the above-created cscope database will be referenced when you
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:325:16: error: expected ';' after top level declarator
+;;    the above-created cscope database will be referenced when you
+               ^
+               ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:326:7: error: unknown type name 'edit'
+;;    edit a related source file.
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:326:13: error: expected ';' after top level declarator
+;;    edit a related source file.
+            ^
+            ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:328:7: error: unknown type name 'Once'
+;;    Once this has been done, you can then use the menu picks
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:328:16: error: expected ';' after top level declarator
+;;    Once this has been done, you can then use the menu picks
+               ^
+               ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:329:7: error: unknown type name 'described'
+;;    described under "Basic usage", above, to search for symbols.
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:329:22: error: expected ';' after top level declarator
+;;    described under "Basic usage", above, to search for symbols.
+                     ^
+                     ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:332:6: warning: type specifier missing, defaults to 'int'
+;; * Interesting configuration variables:
+   ~ ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:332:17: error: expected ';' after top level declarator
+;; * Interesting configuration variables:
+                ^
+                ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:334:4: error: expected identifier or '('
+;; "cscope-truncate-lines"
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:335:9: error: unknown type name 'This'
+;;      This is the value of `truncate-lines' to use in cscope
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:335:16: error: expected ';' after top level declarator
+;;      This is the value of `truncate-lines' to use in cscope
+               ^
+               ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:335:45: error: missing terminating ' character
+;;      This is the value of `truncate-lines' to use in cscope
+                                            ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:336:9: warning: type specifier missing, defaults to 'int'
+;;      buffers; the default is the current setting of
+        ^~~~~~~
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:336:18: error: unknown type name 'the'
+;;      buffers; the default is the current setting of
+                 ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:336:22: error: expected identifier or '('
+;;      buffers; the default is the current setting of
+                     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:337:9: error: expected identifier or '('
+;;      `truncate-lines'.  This variable exists because it can be
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:337:24: error: missing terminating ' character
+;;      `truncate-lines'.  This variable exists because it can be
+                       ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:338:9: error: unknown type name 'easier'
+;;      easier to read cscope buffers with truncated lines, while
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:338:18: error: expected ';' after top level declarator
+;;      easier to read cscope buffers with truncated lines, while
+                 ^
+                 ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:339:9: error: unknown type name 'other'
+;;      other buffers do not have truncated lines.
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:339:22: error: expected ';' after top level declarator
+;;      other buffers do not have truncated lines.
+                     ^
+                     ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:341:4: error: expected identifier or '('
+;; "cscope-use-relative-paths"
+   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:342:9: error: unknown type name 'If'
+;;      If non-nil, use relative paths when creating the list of files
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:342:15: error: expected ';' after top level declarator
+;;      If non-nil, use relative paths when creating the list of files
+              ^
+              ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:343:9: error: unknown type name 'to'
+;;      to index.  The path is relative to the directory in which the
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:343:17: error: expected ';' after top level declarator
+;;      to index.  The path is relative to the directory in which the
+                ^
+                ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:344:9: error: unknown type name 'cscope'
+;;      cscope database will be created.  If nil, absolute paths will
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:344:24: error: expected ';' after top level declarator
+;;      cscope database will be created.  If nil, absolute paths will
+                       ^
+                       ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:345:9: error: unknown type name 'be'
+;;      be used.  Absolute paths are good if you plan on moving the
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:345:16: error: expected ';' after top level declarator
+;;      be used.  Absolute paths are good if you plan on moving the
+               ^
+               ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:346:9: error: unknown type name 'database'
+;;      database to some other directory (if you do so, you'll
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:346:20: error: expected ';' after top level declarator
+;;      database to some other directory (if you do so, you'll
+                   ^
+                   ;
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:346:60: error: missing terminating ' character
+;;      database to some other directory (if you do so, you'll
+                                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:347:62: error: missing terminating ' character
+;;      probably also have to modify `cscope-database-regexps').
+                                                             ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:349:30: error: missing terminating ' character
+;;      with other users (you'll probably want to specify some
+                             ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:377:54: error: missing terminating ' character
+;;      This is a list of `(REGEXP DBLIST [ DBLIST ... ])', where:
+                                                         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:379:70: error: missing terminating ' character
+;;      REGEXP is a regular expression matched against the current buffer's
+                                                                         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:381:12: error: missing terminating ' character
+;;      and you're probably searching for some symbol in or related to this
+               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:396:26: error: missing terminating ' character
+;;      `cscope-database-file'; if DBDIR is a file, then DBDIR is the path
+                             ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:398:40: error: missing terminating ' character
+;;      that given by `cscope-database-file').  If only DBDIR is specified,
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:419:35: error: missing terminating ' character
+;;      Here, `cscope-database-regexps' is generally not used, as the normal
+                                      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:429:11: error: missing terminating ' character
+;;      parent's parent, until a cscope database directory is found, or the
+              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:439:36: error: missing terminating ' character
+;;      variable, `cscope-database-file'.  There is limited support for cscope
+                                       ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:443:51: error: missing terminating ' character
+;;      Here is an example of `cscope-database-regexps':
+                                                      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:446:11: error: missing terminating ' character
+;;                    '(
+                      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:460:26: error: missing terminating ' character
+;;      If the current buffer's directory matches the regexp,
+                             ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:480:26: error: missing terminating ' character
+;;      If the current buffer's directory matches the regexp,
+                             ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:488:26: error: missing terminating ' character
+;;      If the current buffer's directory does not match any of the above
+                             ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:496:59: error: missing terminating ' character
+;;    what is and is not a C/C++/lex/yacc source file.  It's idea of a
+                                                          ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:500:49: error: missing terminating ' character
+;;    already written a "cscope.el" (although it's quite old).
+                                                ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:527:38: error: missing terminating ' character
+;;        color) is `cscope-line-face'.
+                                     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:530:28: error: missing terminating ' character
+;;    `cscope-database-file' is quirky.  If the file does not exist, it
+                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:532:28: error: missing terminating ' character
+;;    `cscope-database-file').  You can manually force the file to be
+                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:538:10: error: missing terminating ' character
+(require 'easymenu)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:542:3: error: missing terminating '"' character
+  "Cscope interface for (X)Emacs.
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:551:33: error: missing terminating '"' character
+        Where does the message \"out of space\" come from?
+                                ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:554:1: error: missing terminating '"' character
+"
+^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:556:10: error: missing terminating ' character
+  :group 'tools)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:560:3: error: missing terminating '"' character
+  "*If non-nil, never check and/or update the cscope database when searching.
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:562:37: error: missing terminating '"' character
+creation, updating, and maintenance."
+                                    ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:563:9: error: missing terminating ' character
+  :type 'boolean
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:564:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:568:3: error: missing terminating '"' character
+  "*List to force directory-to-cscope-database mappings.
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:569:50: error: missing terminating ' character
+This is a list of `(REGEXP DBLIST [ DBLIST ... ])', where:
+                                                 ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:571:66: error: missing terminating ' character
+REGEXP is a regular expression matched against the current buffer's
+                                                                 ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:573:8: error: missing terminating ' character
+and you're probably searching for some symbol in or related to this
+       ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:575:55: error: missing terminating '"' character
+to a cscope database.  You need to start REGEXP with \"^\" if you want
+                                                      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:588:22: error: missing terminating ' character
+`cscope-database-file'; if DBDIR is a file, then DBDIR is the path name
+                     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:590:31: error: missing terminating ' character
+given by `cscope-database-file').  If only DBDIR is specified, then that
+                              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:595:17: error: missing terminating '"' character
+In the case of \"( t )\", this specifies that the search is to use the
+                ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:600:5: error: missing terminating '"' character
+If \"t\" is specified (not inside a list), this tells the searching
+    ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:602:8: error: missing terminating '"' character
+where \"t\" is encountered).  This is useful for those projects that
+       ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:604:35: error: missing terminating '"' character
+subprojects first, followed by a \"t\", and then followed by a master
+                                  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:610:31: error: missing terminating ' character
+Here, `cscope-database-regexps' is generally not used, as the normal
+                              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:620:7: error: missing terminating ' character
+parent's parent, until a cscope database directory is found, or the
+      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:625:14: error: missing terminating '"' character
+file (e.g., \"cscope.out\") OR a cscope file list (e.g.,
+             ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:626:2: error: missing terminating '"' character
+\"cscope.files\") exists.  If only \"cscope.files\" exists, the
+ ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:627:16: error: missing terminating '"' character
+corresponding \"cscope.out\" will be automatically created by cscope
+               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:629:2: error: missing terminating '"' character
+\"cscope.out\", but this can be changed (on a global basis) via the
+ ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:630:32: error: missing terminating ' character
+variable, `cscope-database-file'.  There is limited support for cscope
+                               ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:634:47: error: missing terminating ' character
+Here is an example of `cscope-database-regexps':
+                                              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:637:15: error: missing terminating ' character
+              '(
+              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:638:20: error: missing terminating '"' character
+                ( \"^/users/jdoe/sources/proj1\"
+                   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:640:22: error: missing terminating '"' character
+                  ( \"/users/jdoe/sources/proj2\")
+                     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:641:22: error: missing terminating '"' character
+                  ( \"/users/jdoe/sources/proj3/mycscope.out\")
+                     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:642:22: error: missing terminating '"' character
+                  ( \"/users/jdoe/sources/proj4\")
+                     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:644:22: error: missing terminating '"' character
+                  ( \"/some/master/directory\" (\"-d\" \"-I/usr/local/include\") )
+                     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:646:20: error: missing terminating '"' character
+                ( \"^/users/jdoe/sources/gnome/\"
+                   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:647:22: error: missing terminating '"' character
+                  ( \"/master/gnome/database\" (\"-d\") )
+                     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:651:22: error: missing terminating ' character
+If the current buffer's directory matches the regexp,
+                     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:652:2: error: missing terminating '"' character
+\"^/users/jdoe/sources/proj1\", then the following search will be
+ ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:659:22: error: missing terminating '"' character
+       directories, \"/users/jdoe/sources/proj2\",
+                     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:660:9: error: missing terminating '"' character
+       \"/users/jdoe/sources/proj3/mycscope.out\", and
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:661:9: error: missing terminating '"' character
+       \"/users/jdoe/sources/proj4\".  Note that, instead of the file,
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:662:9: error: missing terminating '"' character
+       \"cscope.out\", the file, \"mycscope.out\", will be used in the
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:663:19: error: missing terminating '"' character
+       directory \"/users/jdoe/sources/proj3\".
+                  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:668:9: error: missing terminating '"' character
+       \"/some/master/directory\", and the command-line options \"-d\"
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:669:13: error: missing terminating '"' character
+       and \"-I/usr/local/include\" will be passed to cscope.
+            ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:671:22: error: missing terminating ' character
+If the current buffer's directory matches the regexp,
+                     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:672:2: error: missing terminating '"' character
+\"^/users/jdoe/sources/gnome\", then the following search will be
+ ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:676:6: error: missing terminating '"' character
+    \"/master/gnome/database\".  The \"-d\" option will be passed to
+     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:679:22: error: missing terminating ' character
+If the current buffer's directory does not match any of the above
+                     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:683:1: error: missing terminating '"' character
+"
+^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:684:9: error: missing terminating ' character
+  :type '(repeat (list :format "%v"
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:694:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:696:3: error: missing terminating '"' character
+  "*The width of the combined \"function name:line number\" field in the
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:697:66: error: missing terminating '"' character
+cscope results buffer.  If negative, the field is left-justified."
+                                                                 ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:698:9: error: missing terminating ' character
+  :type 'integer
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:699:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:703:3: error: missing terminating '"' character
+  "*The value of `truncate-lines' to use in cscope buffers.
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:705:71: error: missing terminating '"' character
+with truncated lines, while other buffers do not have truncated lines."
+                                                                      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:706:9: error: missing terminating ' character
+  :type 'boolean
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:707:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:711:3: error: missing terminating '"' character
+  "*If non-nil, display how long each search took.
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:713:18: error: missing terminating '"' character
+for this to work."
+                 ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:714:9: error: missing terminating ' character
+  :type 'boolean
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:715:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:720:9: error: missing terminating ' character
+  :type 'string
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:721:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:726:9: error: missing terminating ' character
+  :type 'string
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:727:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:732:9: error: missing terminating ' character
+  :type 'string
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:733:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:738:9: error: missing terminating ' character
+  :type 'boolean
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:739:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:744:9: error: missing terminating ' character
+  :type 'boolean
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:745:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:749:3: error: missing terminating '"' character
+  "*If non-nil, stop searching through multiple databases if a match is found.
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:753:27: error: missing terminating '"' character
+this one will be searched."
+                          ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:754:9: error: missing terminating ' character
+  :type 'boolean
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:755:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:759:3: error: missing terminating '"' character
+  "*If non-nil, use relative paths when creating the list of files to index.
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:763:19: error: missing terminating ' character
+(if you do so, you'll probably also have to modify
+                  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:764:27: error: missing terminating ' character
+\`cscope-database-regexps\').  Absolute paths  may also be good if you
+                          ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:765:47: error: missing terminating ' character
+share the database file with other users (you\'ll probably want to
+                                              ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:766:49: error: missing terminating '"' character
+specify some automounted network path for this)."
+                                                ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:767:9: error: missing terminating ' character
+  :type 'boolean
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:768:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:772:3: error: missing terminating '"' character
+  "*If non-nil, index files in the current directory and all subdirectories.
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:775:71: error: missing terminating '"' character
+when creating the list of files and the corresponding cscope database."
+                                                                      ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:776:9: error: missing terminating ' character
+  :type 'boolean
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:777:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:781:3: error: missing terminating '"' character
+  "*If non-nil, use the symbol under the cursor instead of prompting.
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:783:11: error: missing terminating '"' character
+or a file."
+          ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:784:9: error: missing terminating ' character
+  :type 'boolean
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:785:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:794:9: error: missing terminating ' character
+  :type 'string
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:795:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:799:3: error: missing terminating '"' character
+  "*A string containing legal characters in a symbol.
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:800:57: error: missing terminating '"' character
+The current syntax table should really be used for this."
+                                                        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:801:9: error: missing terminating ' character
+  :type 'string
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:802:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:806:3: error: missing terminating '"' character
+  "*A string containing legal characters in a symbol.
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:807:57: error: missing terminating '"' character
+The current syntax table should really be used for this."
+                                                        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:808:9: error: missing terminating ' character
+  :type 'string
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:809:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:813:3: error: missing terminating '"' character
+  "*If non-nil, use an arrow overlay to show target lines.
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:822:42: error: missing terminating '"' character
+be removed by quitting the cscope buffer."
+                                         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:823:9: error: missing terminating ' character
+  :type 'boolean
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:824:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:829:9: error: missing terminating ' character
+  :type 'string
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:830:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:839:3: error: missing terminating '"' character
+  "Line of text to use as a visual separator.
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:840:25: error: missing terminating '"' character
+Must end with a newline.")
+                        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:849:10: error: missing terminating ' character
+  :group 'cscope
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:850:9: error: missing terminating ' character
+  :type '(boolean))
+        ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:854:3: error: missing terminating ' character
+  '((((class color) (background dark))
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:860:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:864:3: error: missing terminating ' character
+  '((((class color) (background dark))
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:870:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:874:3: error: missing terminating ' character
+  '((((class color) (background dark))
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:880:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:884:3: error: missing terminating ' character
+  '((((class color) (background dark))
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:890:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:894:3: error: missing terminating ' character
+  '((((class color) (background dark))
+  ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:900:10: error: missing terminating ' character
+  :group 'cscope)
+         ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:915:54: error: missing terminating ' character
+      (define-key cscope-list-entry-keymap [button2] 'cscope-mouse-select-entry-other-window)
+                                                     ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:916:52: error: missing terminating ' character
+    (define-key cscope-list-entry-keymap [mouse-2] 'cscope-mouse-select-entry-other-window))
+                                                   ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:917:49: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap [return] 'cscope-select-entry-other-window)
+                                                ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:918:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap " " 'cscope-show-entry-other-window)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:919:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "o" 'cscope-select-entry-one-window)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:920:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "q" 'cscope-bury-buffer)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:921:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "Q" 'cscope-quit)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:922:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "h" 'cscope-help)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:923:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "?" 'cscope-help)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:925:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "s" 'cscope-find-this-symbol)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:926:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "d" 'cscope-find-this-symbol)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:927:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "g" 'cscope-find-global-definition)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:929:5: error: missing terminating ' character
+    'cscope-find-global-definition-no-prompting)
+    ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:930:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "c" 'cscope-find-functions-calling-this-function)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:931:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "C" 'cscope-find-called-functions)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:932:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "t" 'cscope-find-this-text-string)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:933:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "e" 'cscope-find-egrep-pattern)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:934:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "f" 'cscope-find-this-file)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:935:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "i" 'cscope-find-files-including-file)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:937:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "n" 'cscope-next-symbol)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:938:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "N" 'cscope-next-file)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:939:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "p" 'cscope-prev-symbol)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:940:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "P" 'cscope-prev-file)
+                                           ^
+/home/eojojos/Varios/emacs/xcscope/xcscope.el:941:44: error: missing terminating ' character
+  (define-key cscope-list-entry-keymap "u" 'cscope-pop-mark)
+                                           ^
+66 warnings and 687 errors generated.
