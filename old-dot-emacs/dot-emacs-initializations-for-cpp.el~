@@ -1,0 +1,12 @@
+  ;;Flymake
+  (require 'flymake)
+
+
+  ;; para configurar mediante make
+  (setq flymake-allowed-file-name-masks
+        (cons '(".+\\.cc$"
+                flymake-simple-make-init
+                flymake-simple-cleanup
+                flymake-get-real-file-name)
+              flymake-allowed-file-name-masks)
+  )

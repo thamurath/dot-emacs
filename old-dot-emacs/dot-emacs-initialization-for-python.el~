@@ -1,0 +1,8 @@
+
+
+
+;; Para utilizar ropemacs
+(add-to-list 'load-path "/home/eojojos/Varios/emacs/python-rope")
+(require 'pymacs)
+(pymacs-load "ropemacs" "rope-")
+(setq ropemacs-enable-autoimport t)
